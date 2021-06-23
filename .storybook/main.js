@@ -11,4 +11,7 @@ module.exports = {
     "@storybook/addon-a11y",
     "themeprovider-storybook/register",
   ],
+  typescript: {
+    reactDocgen: 'none',
+  },
 };
